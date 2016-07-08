@@ -1,0 +1,32 @@
+**********GIT Installation Process in LINUX (UBUNTU)********
+
+SIGN IN in your GITHUB account if you don't have then create one for you.
+Create a Public repository for working and add description to it. 
+
+1.) Install GIT to UBUNTU
+
+sudo apt-get install git
+
+2.) Set UserName and Email
+
+git config user.name "Abhinav"
+git config user.email "abhinavbahiya@gmail.com"
+
+3.) Initialize the directory where you wants to keep the project
+
+git init
+
+4.) Clone the repository in the directory
+
+git clone (HTTP URL of the repositrory)
+
+USE THE FOLLOWING COMMANDS TO ADD, COMMIT and PUSH to your repository
+
+5.) git add .
+
+6.) git commit -m "Message"
+
+7.) git push origin master
+
+
+
