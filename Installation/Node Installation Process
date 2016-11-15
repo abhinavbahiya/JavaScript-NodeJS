@@ -10,23 +10,23 @@ curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
 
 nvm ls-remote
 
-4.) Use the latest and most stable version
+4.) Use the latest and most stable version (It will install node and npm).
 
-nvm install v6.3.0
+nvm install node
 
-5.) For Chee=cking which version you are using for node type the below command
+5.) For Checking which version you are using for node type the below command
 
 node --version
 
-6.) You can also do 
+6.) You can also do
 
 which node
 
-7.) You can also install multiple versions of node, simply repeat the install command
+7.) You can also install multiple versions of node, simply repeat the install command with version.
 
 8.) The version which you wants to use, You can run the below command with the version you wants to use
 
-nvm use v6.3.0
+nvm use v7.1.0 (*version number)
 
 9.) For any other help you can type the below command (Help)
 
