@@ -33,8 +33,14 @@ nvm use v7.1.0 (*version number)
 nvm -h
 
 **********For Windows*********
-1> Download the Node.js source code or a pre-built installer for your platform, and start developing today.
-  https://nodejs.org/en/download/
-2> Open cmd (run as admin) execute downloaded file using cmd
-3> Add path variable C:\Users\webonise\AppData\Roaming\npm some time its automatic added
-4> Now repeat ubuntu steps after 5
+
+1.) Download the Node.js source code or a pre-built installer for your platform, and start developing today.
+    https://nodejs.org/en/download/ ( Based on your system type choose the appropriate )
+
+2.) Open cmd (run as admin) execute downloaded file using cmd.
+
+3.) Add path variable "C:\Users\webonise\AppData\Roaming\npm" ( this is for my system, you have to check your own ) to Environment Variables followed by semi-colon.
+
+4.) Sometimes path variable is added automatically.
+
+4.) Now repeat from Step 5 onwards (Linux).
